@@ -10,7 +10,7 @@ This is primarily a sandbox to play with workflow DAGs.
 `example_output` shows the dot (graphviz) representation along with a png image.
 
 ![initial DAG]('example_output/dag_initial.png')
-![transformed DAG]('example_output/dag_final_parallel')
+![transformed DAG](example_output/dag_final_parallel)
 ![linear ordered DAG]('example_output/dag_final_linear.png')
 
 ## project goals
