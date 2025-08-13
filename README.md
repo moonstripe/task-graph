@@ -9,9 +9,9 @@ This is primarily a sandbox to play with workflow DAGs.
 
 `example_output` shows the dot (graphviz) representation along with a png image.
 
-|                 |                                                                                                         |
-| --------------- | ------------------------------------------------------------------------------------------------------- |
-| dag_initial.png | ![dag_initial.png]('https://github.com/moonstripe/task-graph/tree/main/example_output/dag_initial.png') |
+![initial DAG]('example_output/dag_initial.png')
+![transformed DAG]('example_output/dag_final_parallel')
+![linear ordered DAG]('example_output/dag_final_linear.png')
 
 ## project goals
 
