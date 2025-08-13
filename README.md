@@ -9,9 +9,11 @@ This is primarily a sandbox to play with workflow DAGs.
 
 `example_output` shows the dot (graphviz) representation along with a png image.
 
-![initial DAG](example_output/dag_initial.png?raw=true)
-![transformed DAG](example_output/dag_final_parallel?raw=true)
-![linear ordered DAG](example_output/dag_final_linear.png?raw=true)
+| dot                                                              | png                                                                                      |
+| ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [dag_initial.dot](example_output/dag_initial.dot?raw=true)       | ![initial DAG](example_output/dag_initial.png?raw=true "initial DAG")                    |
+| [dag_final_parallel.dot]{dag_final_parallel.dot?raw=true)        | ![transformed DAG](example_output/dag_final_parallel.png?raw=true "transformed DAG")     |
+| [dag_final_linear.dot](example_output/dag_final_linear?raw=true) | ![linear ordered DAG](example_output/dag_final_linear.png?raw=true "linear ordered DAG") |
 
 ## project goals
 
